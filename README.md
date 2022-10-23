@@ -2,7 +2,7 @@
 - 👀 I’m interested a work life balance
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on innovative open source projects
-- 📫 Raven
+- 📫 Reach me by Raven 
 
 <!---
 devshades-au/devshades-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
